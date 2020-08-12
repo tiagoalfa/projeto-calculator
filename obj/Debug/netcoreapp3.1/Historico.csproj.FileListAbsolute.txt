@@ -1,0 +1,11 @@
+C:\Users\tiago\source\repos\Historico\Historico\bin\Debug\netcoreapp3.1\Historico.exe
+C:\Users\tiago\source\repos\Historico\Historico\bin\Debug\netcoreapp3.1\Historico.deps.json
+C:\Users\tiago\source\repos\Historico\Historico\bin\Debug\netcoreapp3.1\Historico.runtimeconfig.json
+C:\Users\tiago\source\repos\Historico\Historico\bin\Debug\netcoreapp3.1\Historico.runtimeconfig.dev.json
+C:\Users\tiago\source\repos\Historico\Historico\bin\Debug\netcoreapp3.1\Historico.dll
+C:\Users\tiago\source\repos\Historico\Historico\bin\Debug\netcoreapp3.1\Historico.pdb
+C:\Users\tiago\source\repos\Historico\Historico\obj\Debug\netcoreapp3.1\Historico.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\Historico\Historico\obj\Debug\netcoreapp3.1\Historico.AssemblyInfo.cs
+C:\Users\tiago\source\repos\Historico\Historico\obj\Debug\netcoreapp3.1\Historico.dll
+C:\Users\tiago\source\repos\Historico\Historico\obj\Debug\netcoreapp3.1\Historico.pdb
+C:\Users\tiago\source\repos\Historico\Historico\obj\Debug\netcoreapp3.1\Historico.csprojAssemblyReference.cache
